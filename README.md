@@ -135,9 +135,8 @@ Live order tracking
 
 Multi-branch cafeteria support
 
- Screenshots
-
-(Add screenshots here once deployed)
+preview link
+https://cafeshop-ordering.preview.emergentagent.com/
 
 Author
 Rithesh 
