@@ -49,8 +49,6 @@ State Management: FlutterFlow App State
 
 Animations: Lottie (.json)
 
-AI Assistance: Emergent Software (used for prompt-based UI and backend scaffolding)
-
 * Application Flow
 
 App opens with a splash screen (2 seconds)
@@ -98,30 +96,6 @@ orderId, dishName, price, quantity
 Notifications
 
 message, timestamp, isRead
-
-* Explicitly Excluded
-
-Login / authentication
-
-Email services
-
-OTP verification
-
-SMS services
-
-Twilio
-
-SendGrid
-
-* Project Use Case
-
-College project / Project Expo
-
-Cafeteria or canteen ordering system
-
-Easy to explain in viva and reviews
-
-Demonstrates real-world full-stack application flow
 
 * Future Enhancements
 
